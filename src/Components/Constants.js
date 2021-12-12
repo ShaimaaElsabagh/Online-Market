@@ -1,0 +1,20 @@
+export const Colors = {
+  backgroundColor: '#f7f7f7', // '#ffffff'
+  backgroundColor2: '#ffffff',
+  mainColor: '#10b50a',
+  textColor: '#000000',
+  textColor2: '#ffffff',
+  inactiveColor: '#cccccc',
+  itemBacground: '#8effa4',
+  rippleColor: '#0004',
+  barStyle: '#ffffff',
+  priceTextColor: 'gray',
+  starRatingColor: '#fcb900',
+  iconsColor1: '#000000',
+  iconsColor2: '#ffffff',
+  selectionColor: '#b3e6bc',
+  errorAndDeleteColor: '#f00',
+  // cartTabBarColor: '#fed1d1',
+  // favTabBarColor: '#feffa4',
+  // profileTabBarColor: '#e4b7fb',
+};
